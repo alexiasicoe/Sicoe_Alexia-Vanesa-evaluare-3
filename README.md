@@ -37,10 +37,15 @@ Salvare: Extensie de browser pentru a salva imagini de oriunde de pe web ("Pin i
 Căutare Vizuală: Posibilitatea de a căuta produse similare pornind de la o poză (Pinterest Lens).
 
 2. Specificații Software (SRS - Software Requirements Specification)
+3. 
 Specificație Funcțională:
+
 Descriere: Sistemul trebuie să permită utilizatorului autentificat să salveze o imagine ("Pin") într-un panou ("Board") existent sau să creeze un panou nou în momentul salvării.
+
 Specificație de Interfață (UI/UX):
+
 Descriere: Pagina principală (Feed) trebuie să utilizeze un layout de tip "Masonry Grid" (cărămizi inegale), care să se adapteze dinamic la lățimea ecranului și să permită "infinite scroll" (încărcare continuă) fără paginare vizibilă.
+
 Specificație de Sistem (Non-funcțională/Performanță):
 
 Descriere: Motorul de recomandare trebuie să actualizeze feed-ul utilizatorului în mai puțin de 200ms după ce acesta dă click pe un Pin, pentru a afișa conținut similar (Related Pins).
