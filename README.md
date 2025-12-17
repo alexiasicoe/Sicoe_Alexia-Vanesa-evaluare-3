@@ -1,9 +1,11 @@
 # Sicoe_Alexia-Vanesa-evaluare-3
 1. Poziționarea Produsului
+
 a. Oportunitatea și Problema:
 Problema: Utilizatorii de internet sunt inundați de informații și au dificultăți în a găsi, organiza și vizualiza idei creative pentru proiectele lor personale (design interior, rețete, modă), pierzând link-uri sau salvând poze dezorganizat în telefon.
 Oportunitatea: Crearea unui motor de descoperire vizuală care permite nu doar căutarea, ci și organizarea vizuală a ideilor.
 Poziționarea: Pinterest este un "motor de descoperire vizuală" destinat oamenilor creativi și planificatorilor, care oferă o modalitate intuitivă de a descoperi și organiza inspirația, spre deosebire de Google Images care oferă doar rezultate brute fără context sau organizare.
+
 b. Stakeholders vs. Utilizatori:
 Stakeholders (Părțile interesate):
 Echipa de dezvoltare (Devs, QA).
