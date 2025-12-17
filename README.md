@@ -37,7 +37,7 @@ Salvare: Extensie de browser pentru a salva imagini de oriunde de pe web ("Pin i
 Căutare Vizuală: Posibilitatea de a căuta produse similare pornind de la o poză (Pinterest Lens).
 
 2. Specificații Software (SRS - Software Requirements Specification)
-3. 
+ 
 Specificație Funcțională:
 
 Descriere: Sistemul trebuie să permită utilizatorului autentificat să salveze o imagine ("Pin") într-un panou ("Board") existent sau să creeze un panou nou în momentul salvării.
